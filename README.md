@@ -2,6 +2,8 @@
 
 **基于 rust 的[无名杀](https://github.com/libccy/noname)联机大厅服务端**
 
+> 注意查收新加的wiki https://github.com/ninthseason/noname-server-rust/wiki
+
 免去安装 nodejs 的烦恼，小巧的独立服务端。
 
 由于本项目人气寡淡，亦未经充分测试，加之作者美美使用`unwrap()`，可能存在崩服的漏洞，期待未来的发现和修复。
